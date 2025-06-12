@@ -31,7 +31,7 @@ Projeto desenvolvido para a disciplina de programação na Fadergs, implementand
 - `view` — Interface com o usuário (Jogo)
 
 ## Autor
-Seu Nome
+Fernando Lopes
 
 ## Licença
 Este projeto é open-source e pode ser usado para fins acadêmicos.
